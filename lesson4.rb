@@ -1,0 +1,2 @@
+name = "watari"
+puts name
