@@ -10,3 +10,4 @@ for times in 1..times do
   puts "num1*num2=#{num1 * num2}"
   puts "num1/num2=#{num1 / num2}"
 end
+puts "計算を終了します"
